@@ -1,0 +1,22 @@
+body {
+    display: flex
+}
+
+.section-one {
+    display: flex;
+    flex-direction: column;
+    background: #1F2937;
+    color: white;
+    padding: 32px;
+}
+
+.header-one {
+    display: flex;
+}
+.content-one {
+    display: flex;
+}
+
+.content-one.img {
+    width: 310px;
+}
